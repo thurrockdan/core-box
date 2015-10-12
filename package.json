@@ -1,5 +1,5 @@
 {
-  "name": "t4uk",
+  "name": "core-box",
   "version": "0.0.1",
   "description": "lamp, sass, composer, grunt, bower",
   "main": "gruntFile.js",
