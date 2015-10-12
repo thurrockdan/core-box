@@ -1,0 +1,18 @@
+{
+        "name": "thurrockdan/core-box",
+        "description": "core-box",
+        "version": "0.0.1",
+        "type": "project",
+        "keywords": ["dev", "site", "lamp"],
+        "homepage": "https://github.com/thurrockdan/core-box",
+        "time": "2015-10-09",
+        "license": "MIT",
+        "minimum-stability": "dev",
+        "require": {
+            "composer/installers": "v1.0.6"
+        },
+	
+ 	    "config": {
+            "vendor-dir": "public/vendor"
+   	    }
+}

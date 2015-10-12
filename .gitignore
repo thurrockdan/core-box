@@ -1,0 +1,10 @@
+.DS_STORE
+.vagrant
+.sass-cache/
+.sass-cache/*
+public/app/assets/css/*
+node_modules
+public/bower_components
+public/vendor
+public/modules/*
+
